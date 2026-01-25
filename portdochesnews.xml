@@ -1,8 +1,13 @@
 <rss version="2.0">
   <channel>
+    <atom:link href="https://raw.githubusercontent.com/Alynn56/myStuff/refs/heads/main/portdochesnews.xml" rel="self" type="application/rss+xml"/>
     <title>Port Doches News</title>
     <description>Latest Stories</description>
     <language>en-us</language>
+    <link>
+      https://www.youtube.com/
+    </link>
+    <webMaster>Ricky Vitez</webMaster>
     <item>
       <title>Port Doches Doggers</title>
       <description>
@@ -13,6 +18,7 @@
       </link>
       <pubDate>Wed, 21 Jan 2044 05:53:00 GMT</pubDate>
       <category>News</category>
+      <guid isPermaLink="false">101010101010qfhlkhmqqrmgfhsdlkkd</guid>
     </item>
   </channel>
 </rss>
